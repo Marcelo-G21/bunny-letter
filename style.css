@@ -11,9 +11,9 @@
     --color-message-text: #9E0E2B;
     
     /* Images */
-    --image-path-background: url('public/static/images/main-bg.jpg');
-    --image-mobile-path-background: url('public/static/images/main-mobile-bg.jpg');
-    --image-path-content: url('public/static/images/image-content/image1.png');
+    --image-path-background: url('assets/main-bg.jpg');
+    --image-mobile-path-background: url('assets/main-mobile-bg.jpg');
+    --image-path-content: url('assets/image-content/image1.png');
     
     /* Fonts */
     --font-family-main: "Pixelify Sans", sans-serif;

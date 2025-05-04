@@ -4,12 +4,12 @@
 // Array of all images to cycle through
 // Customize these paths to your own images
 const images = [
-  './public/static/images/image-content/image1.png',
-  './public/static/images/image-content/image2.png',
-  './public/static/images/image-content/image3.png',
-  './public/static/images/image-content/image4.png',
-  './public/static/images/image-content/image5.png',
-  './public/static/images/image-content/image6.png'
+  './assets/image-content/image1.png',
+  './assets/image-content/image2.png',
+  './assets/image-content/image3.png',
+  './assets/image-content/image4.png',
+  './assets/image-content/image5.png',
+  './assets/image-content/image6.png'
 ];
 
 // =============================================
